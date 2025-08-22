@@ -2,6 +2,7 @@
 <Resources Culture="ru-RU">
 	<Group Type="String">
 		<Items>
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Formula 1" />
 			<Item Name="BaseElements.StartEvent1.Caption" Value="Начало" />
 			<Item Name="BaseElements.TerminateEvent1.Caption" Value="Конец" />
 			<Item Name="Caption" Value="Тестовый процесс" />
