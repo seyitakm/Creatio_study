@@ -3,6 +3,74 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
 			{
 				"operation": "merge",
+				"name": "MenuItem_ImportFromExcel",
+				"values": {
+					"clicked": {
+						"request": "crt.ImportDataRequest",
+						"params": {
+							"entitySchemaName": "UsrRealty"
+						}
+					}
+				}
+			},
+			{
+				"operation": "remove",
+				"name": "SearchFilter",
+				"properties": [
+					"targetAttributes"
+				]
+			},
+			{
+				"operation": "merge",
+				"name": "SearchFilter",
+				"values": {
+					"_filterOptions": {
+						"expose": [
+							{
+								"attribute": "SearchFilter_Items",
+								"converters": [
+									{
+										"converter": "crt.SearchFilterAttributeConverter",
+										"args": [
+											"Items"
+										]
+									}
+								]
+							}
+						],
+						"from": [
+							"SearchFilter_SearchValue",
+							"SearchFilter_FilteredColumnsGroups"
+						]
+					}
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "ContentContainer",
+				"values": {
+					"visible": true,
+					"color": "transparent",
+					"borderRadius": "none",
+					"padding": {
+						"top": "none",
+						"right": "none",
+						"bottom": "none",
+						"left": "none"
+					},
+					"alignItems": "flex-start",
+					"justifyContent": "center"
+				}
+			},
+			{
+				"operation": "merge",
+				"name": "FolderTree",
+				"values": {
+					"rootSchemaName": "UsrRealty"
+				}
+			},
+			{
+				"operation": "merge",
 				"name": "DataTable",
 				"values": {
 					"columns": [
@@ -23,28 +91,8 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"code": "PDS_CreatedBy",
 							"caption": "#ResourceString(PDS_CreatedBy)#",
 							"dataValueType": 10
-						},
-					]
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "MenuItem_ImportFromExcel",
-				"values": {
-					"clicked": {
-						"request": "crt.ImportDataRequest",
-						"params": {
-							"entitySchemaName": "UsrRealty"
 						}
-					}
-				}
-			},
-			{
-				"operation": "merge",
-				"name": "FolderTree",
-				"values": {
-					"sourceSchemaName": "FolderTree",
-					"rootSchemaName": "UsrRealty"
+					]
 				}
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
@@ -73,6 +121,51 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"path": "PDS.CreatedBy"
 						}
 					}
+				}
+			},
+			{
+				"operation": "merge",
+				"path": [
+					"attributes",
+					"Items",
+					"modelConfig"
+				],
+				"values": {
+					"filterAttributes": [
+						{
+							"loadOnChange": true,
+							"name": "FolderTree_active_folder_filter"
+						},
+						{
+							"name": "Items_PredefinedFilter",
+							"loadOnChange": true
+						},
+						{
+							"name": "LookupQuickFilterByTag_Items",
+							"loadOnChange": true
+						},
+						{
+							"name": "SearchFilter_Items",
+							"loadOnChange": true
+						}
+					]
+				}
+			},
+			{
+				"operation": "merge",
+				"path": [
+					"attributes",
+					"Items",
+					"modelConfig",
+					"sortingConfig"
+				],
+				"values": {
+					"default": [
+						{
+							"direction": "asc",
+							"columnName": "CreatedOn"
+						}
+					]
 				}
 			}
 		]/**SCHEMA_VIEW_MODEL_CONFIG_DIFF*/,

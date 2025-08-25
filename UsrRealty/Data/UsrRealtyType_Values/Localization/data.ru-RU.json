@@ -1,0 +1,80 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "01001c8b-2346-40ff-805f-3e617aa6f2e6"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Квартира"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "69efbaaf-b8c5-4807-9b5d-c0edfec83715"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Офис"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "b1cdc455-b40b-4e79-946a-09269221c9ee"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Дом"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "dfc2d7a2-d389-4319-8fcf-a1d4af02ad97"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Земельный участок"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

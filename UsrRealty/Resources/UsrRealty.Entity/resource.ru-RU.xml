@@ -3,7 +3,15 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Недвижимость" />
+			<Item Name="Columns.UsrArea.Caption" Value="Площадь" />
+			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrID.Caption" Value="ID" />
+			<Item Name="Columns.UsrManager.Caption" Value="Менеджер" />
 			<Item Name="Columns.UsrName.Caption" Value="Название" />
+			<Item Name="Columns.UsrNumber.Caption" Value="Номер" />
+			<Item Name="Columns.UsrOfferType.Caption" Value="Тип предложения" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Цена, USD" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип недвижимости" />
 		</Items>
 	</Group>
 </Resources>

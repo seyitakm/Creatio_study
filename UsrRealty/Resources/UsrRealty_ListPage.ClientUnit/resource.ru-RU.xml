@@ -3,6 +3,9 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница с реестром Недвижимость" />
+			<Item Name="LocalizableStrings.Input_r6sn3fi_label.Value" Value="Текст" />
+			<Item Name="LocalizableStrings.Input_r6sn3fi_placeholder.Value" Value="выав" />
+			<Item Name="LocalizableStrings.Input_r6sn3fi_tooltip.Value" Value="ау" />
 		</Items>
 	</Group>
 </Resources>
