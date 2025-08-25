@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "31bdc184-0c5f-401f-8b37-fb21c1553796",
+    "Name": "UsrRealty",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrRealty.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
