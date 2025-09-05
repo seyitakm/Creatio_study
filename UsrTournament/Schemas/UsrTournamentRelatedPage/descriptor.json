@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "720e9a21-28e8-45c1-9c81-75414bd7bcad",
+    "Name": "UsrTournamentRelatedPage",
+    "ModifiedOnUtc": "\/Date(1757042500000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Tournament (Page settings)",
+    "DependsOn": []
+  }
+}

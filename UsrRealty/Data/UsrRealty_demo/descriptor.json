@@ -1,0 +1,91 @@
+﻿{
+  "Descriptor": {
+    "UId": "868fc6bf-c2ed-7423-1615-82e500a59ae6",
+    "Name": "UsrRealty_demo",
+    "ModifiedOnUtc": "\/Date(1756179493000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "c638dd8c-72ea-4eff-aee0-65aa453b9cd2",
+      "Name": "UsrRealty"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "e954cefc-79ce-4fe2-8358-b03a638e4a37",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "03815590-3fb2-7531-3396-d708034930c7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrNumber",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "1e20679c-711e-4ac8-e36b-fd1ab71efe82",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrManager",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3f7dea41-dbc0-0525-4247-54d7ec179607",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "7aeafdd2-0284-628d-3a0a-da04a955f64f",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrComment",
+        "DataTypeValueUId": "79bccffa-8c8b-4863-b376-a69d2244182b"
+      },
+      {
+        "ColumnUId": "6cfd9158-d3b7-26c4-11bd-e1353aa0eeb7",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrOfferType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "b9441f6d-bacb-2c59-aab0-4c2fd875bce5",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrArea",
+        "DataTypeValueUId": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+      },
+      {
+        "ColumnUId": "232ed114-cabf-151a-aa38-e1d533ee4084",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrID",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "31b0e24d-4615-5931-ba81-4ab428c47ec9",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrPrice",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      }
+    ]
+  }
+}

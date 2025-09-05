@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "720e9a21-28e8-45c1-9c81-75414bd7bcad",
+      "A2": "UsrTournamentRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "e3832eb5-78b9-49d0-912a-f81f57598068",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "a36804e4-b24b-4c36-af96-61c8758fd8ee",
+            "PageSchemaUId": "248158fa-8e0c-4842-be16-df449bbfd0a4",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

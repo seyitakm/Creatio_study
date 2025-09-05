@@ -1,0 +1,86 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "41c307d1-e456-4658-86d7-e6911960f26d"
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "c638dd8c-72ea-4eff-aee0-65aa453b9cd2"
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1756280166157+0600)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9b1f37c5-6dad-4e3e-a0b6-7d1f4a3d0914"
+        },
+        {
+          "SchemaColumnUId": "134c280f-f7a7-4ac5-beeb-4ab1ed9e4ff5",
+          "Value": "c638dd8c-72ea-4eff-aee0-65aa453b9cd2"
+        },
+        {
+          "SchemaColumnUId": "21a61238-45dc-4089-9882-cc1be097cbf8",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "2cda2c20-d48a-44d0-b266-5542730b1ad9",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "379b41a2-dfb5-4069-a267-88ec0653e391",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "a3dc68d6-f74e-4a57-8411-77a88dfe0bbb",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "a72532ba-4755-4b2f-8079-c382ae6d0e9a",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "d27e9964-a7a6-46dd-9f9a-7cb470c33b98",
+          "Value": "ef35155c-c7db-485d-a9b1-b6a1f7d23412",
+          "DisplayValue": "Developer"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1756280166077+0600)\/"
+        }
+      ]
+    }
+  ]
+}

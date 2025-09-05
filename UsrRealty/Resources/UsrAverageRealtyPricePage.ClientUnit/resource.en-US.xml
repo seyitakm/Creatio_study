@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Average realty price page&#xA;" />
+			<Item Name="LocalizableStrings.SaveButton_caption.Value" Value="Save" />
+			<Item Name="Parameters.8d37c6e8-89f8-ba66-1dfc-96fd8ee18460.Caption" Value="Средняя цена в USD" />
+			<Item Name="Parameters.ec0b372d-686e-9c83-d4da-2ceec3aa5bcf.Caption" Value="SQL текст" />
+		</Items>
+	</Group>
+</Resources>

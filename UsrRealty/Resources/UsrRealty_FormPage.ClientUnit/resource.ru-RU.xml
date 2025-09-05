@@ -5,7 +5,24 @@
 			<Item Name="Caption" Value="Страница записи Недвижимость" />
 			<Item Name="LocalizableStrings.addRecord_9we2itp_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_9wpi2j5_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_e5e7v6v_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_wqv2zej_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_x2atypi_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Площадь не менее 10 м2" />
+			<Item Name="LocalizableStrings.Button_6e8bbv8_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.Button_zxn15xz_caption.Value" Value="Нажмите" />
+			<Item Name="LocalizableStrings.ExpansionPanel_tr5snwd_title.Value" Value="Просмотр недвижимости" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_h4izc7u_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_r10v18i_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_iuhf0o9_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_hj2iyh9_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_24ogqr9_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_lp4ilyc_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.MenuItem_4uf15cl_caption.Value" Value="Запуск  процесса средней цены" />
+			<Item Name="LocalizableStrings.MenuItem_fgcwtkk_caption.Value" Value="Пункт меню" />
+			<Item Name="LocalizableStrings.MenuItem_yxp9hvq_caption.Value" Value="Вызов сервиса расчета макс цены" />
+			<Item Name="LocalizableStrings.NumberInput_fqehw1s_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Цена должна быть не менее 50 USD" />
 		</Items>
 	</Group>
 </Resources>

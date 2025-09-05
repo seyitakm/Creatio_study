@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "957d915c-4a81-40d6-aa6e-b83f67d273ce",
+    "Name": "UsrRealtyVisitRelatedPage",
+    "ModifiedOnUtc": "\/Date(1756268880000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Просмотр недвижимости (Настройка страницы)",
+    "DependsOn": []
+  }
+}

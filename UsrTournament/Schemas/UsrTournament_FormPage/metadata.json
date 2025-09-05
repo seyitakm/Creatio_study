@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "248158fa-8e0c-4842-be16-df449bbfd0a4"
+= MetaData.Schema.A2 "UsrTournament_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["1fcee24e-a082-44bb-a106-73710069007e","02d98228-325d-4e98-9eb4-2a50631e4615","7b8b23cb-5390-4428-af78-1d35a3b8a82e","b352088c-125e-49b1-9426-f2505b60269c"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

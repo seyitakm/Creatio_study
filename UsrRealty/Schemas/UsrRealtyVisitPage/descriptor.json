@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f990ca84-d088-49c6-9766-046594915de3",
+    "Name": "UsrRealtyVisitPage",
+    "ModifiedOnUtc": "\/Date(1756268838000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования Просмотр недвижимости"
+  }
+}

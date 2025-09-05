@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "51f014c0-86d3-43d0-81ce-00f21775eb69",
+    "Name": "UsrTournament_ListPage",
+    "ModifiedOnUtc": "\/Date(1757042500000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Tournament list page",
+    "DependsOn": []
+  }
+}

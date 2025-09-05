@@ -4,7 +4,10 @@
 		<Items>
 			<Item Name="Caption" Value="Недвижимость" />
 			<Item Name="Columns.UsrArea.Caption" Value="Area, m2" />
+			<Item Name="Columns.UsrCity.Caption" Value="City" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comments" />
+			<Item Name="Columns.UsrCommission.Caption" Value="Комиссия, USD" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Country" />
 			<Item Name="Columns.UsrID.Caption" Value="ID" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
@@ -12,7 +15,9 @@
 			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />
 			<Item Name="Columns.UsrPrice.Caption" Value="Price USD" />
 			<Item Name="Columns.UsrType.Caption" Value="Realty type" />
-			<Item Name="EventsProcessSchema.Caption" Value="Base object" />
+			<Item Name="EventsProcessSchema.Caption" Value="Недвижимость" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e936794ee4fb41c8af8f2f43617d8846.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e936794ee4fb41c8af8f2f43617d8846.Lanes.Lane_9a86da03c69847d08f8e27cfbca9f2fe.Caption" Value="Lane 1" />
 		</Items>
 	</Group>
 </Resources>

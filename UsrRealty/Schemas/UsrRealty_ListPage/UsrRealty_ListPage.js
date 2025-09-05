@@ -66,6 +66,9 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 				"operation": "merge",
 				"name": "FolderTree",
 				"values": {
+					"layoutConfig": {
+						"width": 147.125
+					},
 					"rootSchemaName": "UsrRealty"
 				}
 			},
@@ -92,7 +95,23 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							"caption": "#ResourceString(PDS_CreatedBy)#",
 							"dataValueType": 10
 						}
-					]
+					],
+					"features": {
+						"rows": {
+							"selection": {
+								"enable": true,
+								"multiple": true
+							},
+							"numeration": true
+						},
+						"editable": {
+							"enable": false,
+							"itemsCreation": false,
+							"floatingEditPanel": false
+						}
+					},
+					"visible": true,
+					"fitContent": true
 				}
 			}
 		]/**SCHEMA_VIEW_CONFIG_DIFF*/,
@@ -163,7 +182,7 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					"default": [
 						{
 							"direction": "asc",
-							"columnName": "CreatedOn"
+							"columnName": "UsrName"
 						}
 					]
 				}

@@ -1,0 +1,55 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3b733c54-d88b-467f-bce3-14089629da9e"
+        },
+        {
+          "SchemaColumnUId": "03815590-3fb2-7531-3396-d708034930c7",
+          "Value": "R-007"
+        },
+        {
+          "SchemaColumnUId": "1e20679c-711e-4ac8-e36b-fd1ab71efe82",
+          "Value": "a6971d12-dfdb-426d-984d-944dfb13b98a",
+          "DisplayValue": "Nelson Mandela"
+        },
+        {
+          "SchemaColumnUId": "232ed114-cabf-151a-aa38-e1d533ee4084",
+          "Value": "AKM07"
+        },
+        {
+          "SchemaColumnUId": "31b0e24d-4615-5931-ba81-4ab428c47ec9",
+          "Value": 333333
+        },
+        {
+          "SchemaColumnUId": "3f7dea41-dbc0-0525-4247-54d7ec179607",
+          "Value": "b1cdc455-b40b-4e79-946a-09269221c9ee",
+          "DisplayValue": "Дом"
+        },
+        {
+          "SchemaColumnUId": "6cfd9158-d3b7-26c4-11bd-e1353aa0eeb7",
+          "Value": "66aff9b5-7e69-4fd3-a792-d2a56ec19b0a",
+          "DisplayValue": "Продажа"
+        },
+        {
+          "SchemaColumnUId": "7aeafdd2-0284-628d-3a0a-da04a955f64f",
+          "Value": "Удобно!"
+        },
+        {
+          "SchemaColumnUId": "b9441f6d-bacb-2c59-aab0-4c2fd875bce5",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1756178839234+0600)\/"
+        },
+        {
+          "SchemaColumnUId": "e954cefc-79ce-4fe2-8358-b03a638e4a37",
+          "Value": "Урпогинск"
+        }
+      ]
+    }
+  ]
+}

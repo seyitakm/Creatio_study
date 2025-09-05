@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "52a9ad0b-c71c-416f-82a1-115be1d9e984",
+    "Name": "UsrAverageRealtyPricePage",
+    "ModifiedOnUtc": "\/Date(1756461679000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница со средней ценой недвижимости"
+  }
+}
